@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Lesson 03 - RN Course",
+    "slug": "rn-course-lesson-03",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
