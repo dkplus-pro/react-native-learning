@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Lesson 01 - RN First Screen",
+    "slug": "react-native-learning-lesson-01",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
